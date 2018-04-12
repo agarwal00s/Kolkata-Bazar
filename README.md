@@ -1,2 +1,2 @@
-# Kolkata-Bazar
-A website for selling household products developed using ASP.NET and C#
+# Kolkata-Bazaar
+E-commerce website for selling fresh fruits, vegetables and groceries. Implemented using ASP.NET
